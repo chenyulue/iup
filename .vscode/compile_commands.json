@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Users\\chenyulue\\codes\\cpp\\iup",
+  "arguments": ["C:\\msys2\\ucrt64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-I..\\lib\\iup\\include", "-DNDEBUG", "-o", "build\\.objs\\example2_1\\mingw\\x86_64\\release\\src\\hello-world\\example2_1.c.obj", "src\\hello-world\\example2_1.c"],
+  "file": "src\\hello-world\\example2_1.c"
+}]
